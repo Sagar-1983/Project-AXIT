@@ -15,19 +15,10 @@ font-family: 'Raleway', sans-serif;*/
 /*heder secation css start*/
 header{
 	width: 100%;
-	background: #000;
+    background: #000;
 }
 
-/*.nav-link::before{
-	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	height: 3px;
-	width: 0%;
-	background-color: white;
 
-}*/
 .nav-link {
     color: #b0b0b0 !important;
     font-family: 'Open Sans', sans-serif;
@@ -45,7 +36,6 @@ header{
 
 .sticky {
   position: fixed;
-  /*width: 100%*/
   z-index: 99999999;
   transition: 0.5s;
 }
@@ -59,6 +49,7 @@ header{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	/*height: 100vh;*/
 }
 .left{
 	height: 90vh;
@@ -217,7 +208,7 @@ header{
 }
 .Social-media ul li a i{
 	font-size: 50px;
-	margin: 0 20px;
+	padding: 0px 20px;
 	color: #cccccc;
 
 }
@@ -434,6 +425,307 @@ header{
 
 
 /*feature-5 secation css end here*/
+
+/*feature-6 secation css start here*/
+
+.feature-6{
+	width: 100%;
+	padding: 100px 0px;
+	background-color: #f5f5f5;
+}
+.feature-6 .table{
+
+}
+.feature-6 .table .table-head{
+	background-color: black;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-left: 25px;
+}
+	
+}
+.feature-6 .table .table-head h4{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px ;
+
+	
+}
+.feature-6 .table .table-body{
+	background-color: black;
+    text-align: center;
+    color: white;
+    padding: 40px 25px;
+    margin-left: 25px;
+    border-bottom: 5px solid #ff8b38;
+}
+
+}
+.feature-6 .table .table-body h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	
+	
+}
+.feature-6 .table .table-body span{
+	font-family: 'Raleway', sans-serif;
+	font-size: 95px;
+	
+}
+.feature-6 .table .table-body p{
+	font-style: italic;
+	color: #adadad;
+	
+
+}
+.feature-6 .table .table-footer{
+	background-color: #ffffff;
+	text-align: center;
+	 margin-left: 25px;
+
+
+}
+.feature-6 .table .table-footer ul{
+	padding: 0;
+	margin: 0;
+}
+
+.feature-6 .table .table-footer ul li{
+	list-style: none;
+	border-bottom: 1px solid #f5f5f5;
+	color: #a1a2a5;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	
+}
+.feature-6 .table .table-footer ul li:nth-child(6){
+	border-bottom: 0;
+}
+.middle .table-body{
+	padding: 0 !important;
+	border-bottom: 0 !important;
+}
+.middle .table-body.popular{
+	margin: 0;
+	padding: 0;
+}
+.middle-body{
+	padding: 40px 25px;
+
+}
+.table-body .popular{
+	background-color: #ff8b38;
+	color: white;
+	text-transform: uppercase;
+	padding: 10px;
+}
+.row{
+	align-items: flex-end;
+}
+
+/*feature-6 secation css end here*/
+
+/*feature-8 secation css start here*/
+.testimonial{
+	width: 100%;
+	/*padding: 100px 0px;*/
+	background-color: white;
+}
+.comment-box{
+	background-color: #f5f5f5;
+	padding: 18px 32px;
+	border-radius: 5px;
+	position: relative;
+	color: #a6a7a9;
+
+}
+.comment-box p{
+	margin: 0;
+}
+.mini-box{
+	height: 40px;
+	width: 40px;
+	background-color: #f5f5f5;
+	position: absolute;
+	bottom: -20px;
+	left: 50px;
+	transform: rotate(45deg);
+
+}
+.comment-user{
+	margin-top: 36px;
+	text-align: left;
+}
+.comment-user img{
+	margin-left: 34px;
+
+
+}
+.comment-user h6 p{
+	text-align: left;
+}
+.comment-user h6{
+	font-size: 20px;
+	font-weight: bold;
+}
+.comment-user p{
+	color: #a6a7a9;
+
+}
+
+/*feature-8 secation css end here*/
+
+
+/*feature-9 secation css start here*/
+.back{
+	margin: 80px 0px;
+	width: 100%;
+	background-image: url(../img/black.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 50vh;
+	text-align: center;
+}
+.back-part{
+	margin: 50px 0px;
+}
+.back-part h2{
+
+	text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: white;
+    
+}
+
+}
+.back .back-part p{
+	color: white !important;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.back-part button{
+	background: transparent;
+    color: white;
+    border: none;
+    border: 1px solid;
+    padding: 10px 30px;
+    margin-top: 30px;
+ 
+    
+
+}
+
+
+
+
+/*feature-9 secation css end here*/
+
+/*feature-10 secation css start here*/
+.feature-10{
+	width: 100%;
+	margin: 50px 0px;
+	text-align: center;
+}
+/*feature-10 secation css end here*/
+
+/*feature-11 secation css start here*/
+.feature-11{
+	width: 100%;
+	margin-bottom: 50px; 
+}
+.feature-11 .pain{
+	display: block;
+	padding-top: 20px;
+	padding-right: 319px;
+	border:none;
+	border-bottom: 1px solid black;
+	text-align: left;
+	color: #acadaf;
+
+}
+.feature-11 .area{
+	padding-right: 370px;
+    padding-bottom: 125px;
+    border: none;
+    border-bottom: 1px solid;
+    color: black;
+    margin-left: 5px;
+
+
+}
+
+/*feature-11 secation css end here*/
+.end-but{
+	width: 100%;
+	margin-bottom: 80px;
+	text-align: center;
+	
+
+}
+.end-but button{
+
+    padding: 8px 15px;
+    background-color: #ff8b38;
+    color: white;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 4px;
+    transition: 0.1s;
+
+}
+.end-but button:hover{
+	background-color: black;
+	color: white;
+	transition: 0.1s;
+}
+/*feature-12 secation css start here*/
+.end-logo{
+	width: 100%;
+	background-color: black;
+}
+.end-logo ul{
+	text-align: center;
+}
+.end-logo ul li{
+	margin-top: 20px;
+    list-style: none;
+    display: inline-block;
+
+}
+.end-logo ul li a{
+	color: #cccccc;
+	padding: 0px 11px;
+	font-size: 20px;
+}
+.end-logo p{
+    text-align: center;
+	color: #cccccc;
+	font-size: 12px;
+}
+.feature-0{
+	width: 100%;
+    background-color: #f5f5f5;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+
+
+/*feature-12 secation css end here*/
+
+
+
+
+
+
+
+
 
 
 

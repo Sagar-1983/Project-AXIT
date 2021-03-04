@@ -1,0 +1,259 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+   
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */     
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+.banner{
+    height: auto;
+    text-align: center;
+   }
+
+
+.right{
+  height: auto;
+
+}
+.card{
+  margin-left: 13px;
+  margin-bottom: 25px;
+}
+.line{
+  margin: 25px auto;
+}
+.col-md-4{
+  text-align: center;
+}
+.banner-title{
+  font-size: 27px;
+
+}
+.Social-media ul {
+  padding: 0px;
+  text-align: center;
+}
+.Social-media ul li {
+  margin-top: 0px;
+}
+.Social-media ul li a i{
+  padding: 0px;
+  margin-left: 10px;
+  font-size: 30px;
+}
+.feature-1{
+  padding: 47px 0px;
+  text-align: center;
+}
+.feature-1 .col-md-2{
+  padding-left: 92px;
+}
+.feature-1 h4{
+  margin-left: 0px;
+  bottom: 30px;
+  margin-bottom: 0px;
+}
+.feature-1 p{
+  margin-left: 0px;
+  font-size: 12px;
+  margin-bottom: 12px;
+
+
+}
+.feature-1 button{
+  margin-left: 0px;
+  margin-bottom: 20px;
+
+}
+.feature-2{
+  padding: 50px 0px;
+}
+.feature-2 p {
+    font-size: 12px;
+}
+.feature-3{
+  padding: 50px 0px;
+  text-align: center;
+}
+.feature-3 p {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #97979b;
+     margin-right: 0px;
+
+}
+.feature-3 .line-3{
+  margin: 15px auto;
+}
+.feature-4{
+  padding: 33px 0px;
+  padding-bottom: 17px;
+
+
+}
+.feature-4 h2{
+  font-size: 24px;
+}
+.feature-4 p{
+          margin-top: -28px;
+}
+.feature-5 p{
+  font-size: 12px;
+}
+.feature-5{
+  padding-bottom: 36px;
+}
+.feature-5 h4{
+      font-size: 18px;
+}
+.feature-0 p{
+      margin-top: -23px;
+}
+.feature-6{
+  padding: 50px 0px;
+  text-align: center;
+}
+  .feature-6 .table .table-head {
+    margin-left: 0px;
+
+ }
+ .feature-6 .table .table-body{
+   margin-left: 0px;
+
+ }
+ 
+.testimonial  .comment-box{
+        padding: 4px 28px;
+  }
+.back .back-part{
+      margin: 14px 0px;
+}
+.back-part button{
+  margin-top: 0px;
+}
+.back-part h2{
+      font-size: 30px;
+      padding-bottom: 0px;
+      margin-bottom: -18px;
+      margin-top: 34px;
+}
+.feature-11 .pain{
+  
+  padding-right: 144px;
+}
+.feature-11 .area{
+  padding-right: 170px;
+  margin-top: 20px;
+  
+}
+.feature-10 .roy{
+  margin-top: -41px;
+}
+.end-logo ul{
+  padding-left: 0px;
+}
+.comment-user h6{
+  margin-left: 42px;
+
+}
+.comment-user p{
+   margin-left: 42px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
